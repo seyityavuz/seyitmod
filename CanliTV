@@ -4,7 +4,7 @@ SEYİT_YAVUZ ÇOĞALTILMASI YASAKTIR.
 #EXTM3U
 #EXTINF:-1,  group-title="ULUSAL",TRT 1 HD ☾☆ 🇹🇷
 tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png"
-https://canlitvme.ismailturret.workers.dev/trt1.m3u8
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 
 #EXTINF:-1,  group-title="HABER", TRT Haber HD
 tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png"
@@ -120,9 +120,25 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_293.png?v=9"
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
 
+#EXTINF:-1,  group-title="SİNEMA", Süper Türk TV
+tvg-logo="http://assets.tvcdn.net/bac5987e-f340-4e36-b1fb-9b8b61d5b9a0.png"
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+
+#EXTINF:-1,  group-title="SİNEMA", Tivi Türk
+tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png"
+https://stream.tiviturk.de/live/tiviturk.m3u8
+
+#EXTINF:-1,  group-title="SİNEMA", Parliament Channel
+tvg-logo="https://r.resimlink.com/qUWtwS.png?v=67c89b0b78b2b87646ba632f9f57d097"
+https://live20.bozztv.com/akamaissh101/ssh101/first/playlist.m3u8
+
 #EXTINF:-1,  group-title="SİNEMA", Fil TV
 tvg-logo="https://r.resimlink.com/_fozi2.png"
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
+
+#EXTINF:-1, group-title="SİNEMA", Film Screen 
+tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png"
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 
 #EXTINF:-1,  group-title="SİNEMA", Cine6 Tv
 tvg-logo="https://r.resimlink.com/DQ5FbGyUXn.png"
@@ -140,9 +156,13 @@ https://box.cinemax6.com:3020/stream/play.m3u8
 tvg-logo="https://r.resimlink.com/M_qj5-K.png"
 https://box.cinemax6.com:3843/stream/play.m3u8
 
-#EXTINF:-1,  group-title="SİNEMA", DiziMax
-tvg-logo="https://r.resimlink.com/UFmCy.png"
-http://208.79.153.42/akamaissh101/ssh101/DİZİ_MAX_TV/playlist.m3u8
+#EXTINF:-1,  group-title="SİNEMA", Sinevizyon Premıum
+tvg-logo="https://r.resimlink.com/4WlMdKLIfvF.png"
+https://box.cinemax6.com:3111/stream/play.m3u8
+
+#EXTINF:-1,  group-title="SİNEMA", Sinevizyon Yerli
+tvg-logo="https://r.resimlink.com/AeaB0LITPS.png"
+https://box.cinemax6.com:3592/stream/play.m3u8
 
 #EXTINF:-1,  group-title="SİNEMA", NovaMax Aksiyon
 tvg-logo="https://r.resimlink.com/zK1R83.png"
@@ -176,21 +196,9 @@ https://box.cinemax6.com:3720/stream/play.m3u8
 tvg-logo="https://r.resimlink.com/0IOYSkl8f2z.png"
 https://novamax.cinemax6.com:3760/stream/play.m3u8
 
-#EXTINF:-1,  group-title="SİNEMA", Now Movies Horhor
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0CQiXdaO6ad0wl2RCklSyHmInCc5dPPPIGw&s"
-https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
-
-#EXTINF:-1,  group-title="SİNEMA", iPlay Cinema
-tvg-logo="https://r.resimlink.com/Y4gAE-Vpc6.png"
-https://a8.radyotelekom.com.tr:3899/hybrid/play.m3u8
-
 #EXTINF:-1, group-title="SİNEMA", Play TV
 tvg-logo="https://cdn6.aptoide.com/imgs/7/0/c/70c90d05b27258a90ce76bfaa6fd4db4_icon.png"
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-
-#EXTINF:-1,  group-title="SİNEMA", Tivi Türk
-tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png"
-https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:-1,  group-title="SİNEMA", Ufkum TV
 tvg-logo="https://www.ufkumtv.net/uploads/logo/UTV.png"
@@ -200,109 +208,13 @@ https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
 tvg-logo="https://static.vecteezy.com/system/resources/previews/009/026/023/large_2x/tvb-logo-tvb-letter-tvb-letter-logo-design-initials-tvb-logo-linked-with-circle-and-uppercase-monogram-logo-tvb-typography-for-technology-business-and-real-estate-brand-vector.jpg"
 https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
 
-#EXTINF:-1,  group-title="SİNEMA", TV36 Cinema
-tvg-logo="https://r.resimlink.com/aOiGW4S.png"
-https://ip240.radyotelekom.com.tr:3530/stream/play.m3u8
-
-#EXTINF:-1,  group-title="SİNEMA", Süper Türk TV
-tvg-logo="http://assets.tvcdn.net/bac5987e-f340-4e36-b1fb-9b8b61d5b9a0.png"
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-
 #EXTINF:-1,  group-title="ULUSAL", Süper Türk Max
 tvg-logo="http://assets.tvcdn.net/2a7833de-376e-4900-a8eb-523162f00502.png"
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 
-#EXTINF:-1,  group-title="7/24 DİZİ", Gönül Dağı 7/24
+#EXTINF:-1,  group-title="SİNEMA", Gönül Dağı 7/24
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7x9iG3Sv5CZT3Tbp4HC6li5y5P1XqecdIZPMgyY280g&s"
 http://104.238.23.215/yt.php?ID=UC6zAMy6boneCLJzRKiiwzmQ
-
-#EXTINF:-1, group-title="SİNEMA", BeIN Movies Stars 
-tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/bein-movies-stars-hd-tr.png"
-https://tv1.arectv30.sbs/live/bsstars.m3u8
-
-#EXTINF:-1, group-title="SİNEMA", BeIN Movies Family
-tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/bein-movies-family-hd-tr.png"
-http://rs0811.xyz:8080//brh6168/EKpKrPfjkvvR/6204
-
-#EXTINF:-1, group-title="SİNEMA", BeIN Movies Actions 
-tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/bein-movies-action-hd-tr.png"
-https://tv1.arectv30.sbs/live/bsaction1.m3u8
-
-#EXTINF:-1, group-title="SİNEMA", BeIN Movies Premiere 
-tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/bein-movies-premiere-hd-tr.png"
-https://tv1.arectv30.sbs/live/bspremier1.m3u8
-
-#EXTINF:-1, group-title="SİNEMA", BeIN Movies Premiere 2
-tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/bein-movies-premiere-hd-tr.png"
-http://rs0811.xyz:8080//brh6168/EKpKrPfjkvvR/6201
-
-#EXTINF:-1, group-title="SİNEMA", BeIN Movies Türk 
-tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/bein-movies-turk-hd-tr.png"
-https://tv1.arectv30.sbs/live/bsturk.m3u8
-
-#EXTINF:-1, group-title="SİNEMA", BeIN Movies Türk Orginal 
-tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/bein-movies-turk-hd-tr.png"
-http://78.128.125.60:9980/play/a01g/index.m3u8
-
-#EXTINF:-1, group-title="SİNEMA", Movie Smart Türk
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LCOA3757KaiTF3YoF720YDf4Tkx9gbamymLRAotYpw&s"
-https://tv1.arectv30.sbs/live/mvturk.m3u8
-
-#EXTINF:-1, group-title="SİNEMA", BeIN Box Office 1 
-tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/bein-box-office-1-tr.png"
-https://tv.arectv34.sbs/live/box1.m3u8
-
-#EXTINF:-1, group-title="SİNEMA", BeIN Box Office 2 
-tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/bein-box-office-2-tr.png"
-https://tv.arectv34.sbs/live/box2.m3u8
-
-#EXTINF:-1, group-title="SİNEMA", BeIN Box Office 3 
-tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/bein-box-office-3-tr.png"
-https://tv1.arectv30.sbs/live/box3.m3u8
-
-#EXTINF:-1,  group-title="SİNEMA", BYZBOX Aksiyon
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdXkLKxoPK0XLWDymkJaolwOulC7ay8BSnQ&s"
-https://tv1.arectv30.sbs/live/sinemaaksiyon2.m3u8
-
-#EXTINF:-1,  group-title="SİNEMA", BYZBOX Komedi
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdXkLKxoPK0XLWDymkJaolwOulC7ay8BSnQ&s"
-https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
-
-#EXTINF:-1,  group-title="SİNEMA", BYZBOX Savaş
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdXkLKxoPK0XLWDymkJaolwOulC7ay8BSnQ&s"
-http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152699
-
-#EXTINF:-1,  group-title="SİNEMA", BYZBOX Bilim Kurgu 
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdXkLKxoPK0XLWDymkJaolwOulC7ay8BSnQ&s"
-http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152706
-
-#EXTINF:-1,  group-title="SİNEMA", BYZBOX Gerilim
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdXkLKxoPK0XLWDymkJaolwOulC7ay8BSnQ&s"
-http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152686
-
-#EXTINF:-1,  group-title="SİNEMA", BYZBOX Korku 
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdXkLKxoPK0XLWDymkJaolwOulC7ay8BSnQ&s"
-http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152693
-
-#EXTINF:-1,  group-title="SİNEMA", BYZBOX Drama
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdXkLKxoPK0XLWDymkJaolwOulC7ay8BSnQ&s"
-http://ufosat.xyz:8080/P8TBMUHffV/VBUzFzSzj2Rq/152681
-
-#EXTINF:-1,  group-title="BELGESEL", Discovery Channel
-tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png"
-https://tv.arectv34.sbs/live/discovery.m3u8
-
-#EXTINF:-1, group-title="BELGESEL", BBC Earth 
-tvg-logo="https://www.creativeboom.com/upload/articles/8f/8f6cd51ec38e4f9ccab6a7350ba42d4ca9c429da_800.png"
-https://tv.arectv34.sbs/live/bbc.m3u8
-
-#EXTINF:-1,  group-title="BELGESEL", Love Nature
-tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png"
-https://tv1.arectv30.sbs/live/lovenature.m3u8
-
-#EXTINF:-1, group-title="BELGESEL", Tarih TV
-tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/1da9e4ec-4e08-4bc9-bf29-5060d63bca07.png"
-https://tv1.arectv30.sbs/live/tarihtv.m3u8
 
 #EXTINF:-1,  group-title="ULUSAL", Ton TV
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqbLASRYinDTPZlalb43k8HErIOVpMMiFNew&s"
@@ -311,10 +223,6 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1,  group-title="SİNEMA", Deniz Postası
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS20yAQyMIqNkavYSIEZ0OZbHeNFci_xRsElQ&s"
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-
-#EXTINF:-1,  group-title="SİNEMA", TV 25
-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TV25_Logo.svg/2560px-TV25_Logo.svg.png"
-https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
 
 #EXTINF:-1,  group-title="SİNEMA", Anadolum
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDDLqpnA90mcIc7BVO0T24GifdKsmQ1JcDo_iUW0kLwfPSV2Jizqsx7Fg&s=10"
@@ -347,10 +255,6 @@ https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 #EXTINF:-1,  group-title="SİNEMA", Tabii TV
 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png"
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-
-#EXTINF:-1,  group-title="SİNEMA", Önde TV
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoxS_ipYAroYVKp9GaXg9sSWh6rsV0AdPn0g&s"
-https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 
 #EXTINF:-1,  group-title="SİNEMA", Hoçwan TV
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hCL-RQenDMNokx5H4DQlW4khV9gwgrqtCnQJPl4CnurIJNSUH6D1mtY&s=10"
@@ -468,10 +372,6 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png"
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1,  group-title="ÇİZGİ FİLM", Cartoon Network
-tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png"
-http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10179
-
 #EXTINF:-1,  group-title="ÇİZGİ FİLM", Minika Çocuk
 tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png"
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
@@ -507,6 +407,10 @@ https://trgoals-play.koprulu.workers.dev/?id=yayininat&ext=m3u8?|Referer=https:/
 #EXTINF:-1,  group-title="SPOR", BeİN Spor 1 ⚽ Trgoals
 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"
 https://trgoals-play.koprulu.workers.dev/?id=yayin1&ext=m3u8?|Referer=https://trgoals1355.xyz|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)&referer=https://trgoals1392.xyz//
+
+#EXTINF:-1,  group-title="SPOR", BeİN Spor 1 ⚽ Maç Keyfi
+tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"
+http://mackeyfi.sultan-smart.workers.dev/?ID=2
 
 #EXTINF:-1,  group-title="SPOR", BeİN Spor 1 ⚽ CDN
 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"
@@ -568,13 +472,9 @@ https://cdn-8878.varplaycdn.cfd/609/index.m3u8
 tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png"
 https://cdn-8878.varplaycdn.cfd/610/index.m3u8
 
-#EXTINF:-1,  group-title="SPOR", Sıfır TV
-tvg-logo="https://r.resimlink.com/tVXc4QGdN.png"
-https://origin1.noisypeak.com/srt_listener_test11/track_0_5500/playlist.m3u8
-
-#EXTINF:-1,  group-title="SPOR", FB TV 
+#EXTINF:-1, group-title="SPOR" Fenerbahçe TV
 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/06bc7085-065e-473e-b4aa-ec56ed3455f5.png"
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8?token=lKuy1sh5QaDU-w6augQBkg&tms=1755460803|user-agent=googleusercontent&referrer=https://twitter.com/
+https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/playlist.m3u8
 
 #EXTINF:-1,  group-title="SPOR", Tabii Spor
 tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg"
@@ -603,10 +503,6 @@ https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,  group-title="SPOR", TRT Spor Yıldız HD
 tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png"
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1,  group-title="SPOR", Nba Tv 
-tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1af109dc-4dc7-4185-981b-ccc6f8d45e83.png"
-https://seven.4928d54d950ee70q27.lat/yayinnbatv.m3u8|referer=https://trgoals1372.xyz/|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)&referer=https://trgoals1372.xyz/
 
 #EXTINF:-1,  group-title="SPOR", Galatasaray Özet
 tvg-logo="http://logocubaba.duckdns.org:8080/LOGO.YENI/TR/OZET/galatasaray.png"
@@ -676,6 +572,10 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 tvg-logo="https://i.imgur.com/TwqIJwo.png"
 https://canlitvme.ismailturret.workers.dev/goncatv.m3u8
 
+#EXTINF:-1, group-title="DİNİ", Kudüs TV 
+tvg-logo="https://kudustv.com.tr/images/logo/logo.png?"
+https://yayin30.haber100.com/live/kudustv/chunklist_w218028649.m3u8
+
 #EXTINF:-1,  group-title="DİNİ", Kanal Hayat
 tvg-logo="http://assets.tvcdn.net/f0ca3918-8cbd-4607-b9d0-6a27d6f29425.png"
 https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
@@ -695,10 +595,6 @@ https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protoc
 #EXTINF:-1,  group-title="MÜZİK", TRT Müzik HD
 tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png"
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1,  group-title="MÜZİK", iPlay Müzik
-tvg-logo="https://r.resimlink.com/C3WTeRX.png"
-https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
 
 #EXTINF:-1,  group-title="MÜZİK", Kral PoP
 tvg-logo="https://i.ibb.co/vk0bKz0/kral-pop.png"
